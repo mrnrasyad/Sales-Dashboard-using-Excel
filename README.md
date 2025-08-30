@@ -74,5 +74,20 @@ Completed sales totaled 88 orders, while pending sales were 85 orders, and cance
   <img src=image/5.png />
 </p>
 
+## Dashboard
+This dashboard provides an overview of sales performance:
+- **Trends over time** (monthly sales).
+- **Geographic performance** (by cities).
+- **Product insights** (top sellers).
+- **Customer behavior** (payment methods).
+- **Operational efficiency** (order status).
 
+It also includes **interactive filters** (top section), allowing users to analyze specific conditions:
+- **Filter by Month** → Sales data for each month (Jan–Dec 2025).
+- **Filter by Product Category** → Books, Clothing, Electronics, Footwear, Home Appliances.
+- **Filter by Status** → Cancelled, Completed, Pending.
+- **Filter by Payment Method** → Amazon Pay, Credit Card, Debit Card, Gift Card, PayPal.
 
+<p align="center">
+  <img src=image/dash.png />
+</p>
