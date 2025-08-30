@@ -46,10 +46,33 @@ Most customers prefer PayPal and Card payments, while Amazon Pay and Gift Cards 
   <img src=image/1.png />
 </p>
 
-#### **Total Sales** by **Country**
-Most customers prefer PayPal and Card payments, while Amazon Pay and Gift Cards remain less popular. This indicates an opportunity to either promote underused methods or optimize checkout for the most popular ones.
+#### **Total Sales** by **Cities**
+Miami leads sales at $31,700, followed by Denver and Houston, while San Francisco and Los Angeles have the lowest. Overall, sales are strong in a few key cities but weaker in others, showing room for improvement.
 
 <p align="center">
   <img src=image/2.png />
 </p>
+
+#### **Total Sales** per **Month**
+Sales peaked strongly in February–March, especially for Electronics and Home Appliances, but then dropped sharply and stayed low for the rest of the year, with only a small bump in October.
+
+<p align="center">
+  <img src=image/3.png />
+</p>
+
+#### **Top Selling Products**
+Refrigerators, laptops, and smartphones were the biggest revenue drivers, while clothing items and books barely contributed, showing that sales were heavily dominated by high-value electronics and appliances.
+
+<p align="center">
+  <img src=image/4.png />
+</p>
+
+#### **Total Ordes** by **Status**
+Completed sales totaled 88 orders, while pending sales were 85 orders, and canceled sales were 77 orders.
+
+<p align="center">
+  <img src=image/5.png />
+</p>
+
+
 
