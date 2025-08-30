@@ -39,3 +39,17 @@ Below are the descriptions of the variables.
      - Combining all the charts that were created and using slicers and timelines for filtering to make the dashboard more interactive, a 2025 Sales Dashboard was created.
     
 ## Results
+#### **Total Orders** by **Payment Method**
+Most customers prefer PayPal and Card payments, while Amazon Pay and Gift Cards remain less popular. This indicates an opportunity to either promote underused methods or optimize checkout for the most popular ones.
+
+<p align="center">
+  <img src=image/1.png />
+</p>
+
+#### **Total Sales** by **Country**
+Most customers prefer PayPal and Card payments, while Amazon Pay and Gift Cards remain less popular. This indicates an opportunity to either promote underused methods or optimize checkout for the most popular ones.
+
+<p align="center">
+  <img src=image/2.png />
+</p>
+
