@@ -89,5 +89,12 @@ It also includes **interactive filters** (top section), allowing users to analyz
 - **Filter by Payment Method** → Amazon Pay, Credit Card, Debit Card, Gift Card, PayPal.
 
 <p align="center">
-  <img src=image/dash.png />
+  <img src=image/dash.jpg/>
 </p>
+
+## Recommendations
+- Run promotions in low months (Apr, Jul–Sep, Nov–Dec).
+- Focus marketing on Miami & SF, investigate LA & NY.
+- Push high-value products, bundle low-sellers.
+- Optimize checkout: prioritize PayPal/Cards, review Amazon Pay.
+- Fix fulfillment to reduce pending/cancelled orders.
