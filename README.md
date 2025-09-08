@@ -54,7 +54,7 @@ Miami leads sales at $31,700, followed by Denver and Houston, while San Francisc
 </p>
 
 #### **Total Sales** per **Month**
-Sales peaked strongly in February–March, especially for Electronics and Home Appliances, but then dropped sharply and stayed low for the rest of the year, with only a small bump in October.
+Sales were really strong in February and March, led by home appliances and electronics, but everything dropped sharply in April. Footwear showed a small boost in March before falling too, while clothing and books stayed low throughout. Overall, sales started strong but couldn’t keep the momentum going.
 
 <p align="center">
   <img src=image/3.png />
@@ -83,7 +83,7 @@ This dashboard provides an overview of sales performance:
 - **Operational efficiency** (order status).
 
 It also includes **interactive filters** (top section), allowing users to analyze specific conditions:
-- **Filter by Month** → Sales data for each month (Jan–Dec 2025).
+- **Filter by Month** → Sales data for each month (Feb–Mar 2025).
 - **Filter by Product Category** → Books, Clothing, Electronics, Footwear, Home Appliances.
 - **Filter by Status** → Cancelled, Completed, Pending.
 - **Filter by Payment Method** → Amazon Pay, Credit Card, Debit Card, Gift Card, PayPal.
@@ -93,7 +93,7 @@ It also includes **interactive filters** (top section), allowing users to analyz
 </p>
 
 ## Recommendations
-- Run promotions in low months (Apr, Jul–Sep, Nov–Dec).
+- Run promotions in low months (March).
 - Focus marketing on Miami & SF, investigate LA & NY.
 - Push high-value products, bundle low-sellers.
 - Optimize checkout: prioritize PayPal/Cards, review Amazon Pay.
