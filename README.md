@@ -1,4 +1,4 @@
-# Sales Dashboard using Excel: A Data Analytics Project
+# Amazon Sales Dashboard using Excel: A Data Analytics Project
 
 ## Brief Description about this Project
 The goal of this project is to prepare the data and use pivot tables and charts to analyze customer and product trends within a year, and finally present each chart in an interactive dashboard.
@@ -50,14 +50,14 @@ Most customers prefer PayPal and Card payments, while Amazon Pay and Gift Cards 
 Miami leads sales at $31,700, followed by Denver and Houston, while San Francisco and Los Angeles have the lowest. Overall, sales are strong in a few key cities but weaker in others, showing room for improvement.
 
 <p align="center">
-  <img src=image/2.png />
+  <img src=image/7.png />
 </p>
 
 #### **Total Sales** per **Month**
-Sales were really strong in February and March, led by home appliances and electronics, but everything dropped sharply in April. Footwear showed a small boost in March before falling too, while clothing and books stayed low throughout. Overall, sales started strong but couldn’t keep the momentum going.
+Sales were strong in February ($122,695) and March ($177,730), but dropped sharply in April to just $3,420, most likely due to the absence of Home Appliances sales data. Overall, sales started strong but failed to maintain momentum.
 
 <p align="center">
-  <img src=image/3.png />
+  <img src=image/6.png />
 </p>
 
 #### **Top Selling Products**
@@ -89,7 +89,7 @@ It also includes **interactive filters** (top section), allowing users to analyz
 - **Filter by Payment Method** → Amazon Pay, Credit Card, Debit Card, Gift Card, PayPal.
 
 <p align="center">
-  <img src=image/dash.jpg/>
+  <kbd> <img src=image/dash2.jpg width=800px> </kbd>
 </p>
 
 ## Recommendations
