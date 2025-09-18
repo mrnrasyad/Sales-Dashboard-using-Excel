@@ -43,35 +43,35 @@ Below are the descriptions of the variables.
 Most customers prefer PayPal and Card payments, while Amazon Pay and Gift Cards remain less popular. This indicates an opportunity to either promote underused methods or optimize checkout for the most popular ones.
 
 <p align="center">
-  <img src=image/1.png />
+  <kbd> <img src=image/1.png width=600px> </kbd>
 </p>
 
 #### **Total Sales** by **Cities**
 Miami leads sales at $31,700, followed by Denver and Houston, while San Francisco and Los Angeles have the lowest. Overall, sales are strong in a few key cities but weaker in others, showing room for improvement.
 
 <p align="center">
-  <img src=image/7.png />
+  <kbd> <img src=image/8.png width=600px> </kbd>
 </p>
 
 #### **Total Sales** per **Month**
 Sales were strong in February ($122,695) and March ($177,730), but dropped sharply in April to just $3,420, most likely due to the absence of Home Appliances sales data. Overall, sales started strong but failed to maintain momentum.
 
 <p align="center">
-  <img src=image/6.png />
+  <kbd> <img src=image/6.png width=600px> </kbd>
 </p>
 
 #### **Top Selling Products**
 Refrigerators, laptops, and smartphones were the biggest revenue drivers, while clothing items and books barely contributed, showing that sales were heavily dominated by high-value electronics and appliances.
 
 <p align="center">
-  <img src=image/4.png />
+  <kbd> <img src=image/4.png width=600px> </kbd>
 </p>
 
 #### **Total Ordes** by **Status**
 Completed sales totaled 88 orders, while pending sales were 85 orders, and canceled sales were 77 orders.
 
 <p align="center">
-  <img src=image/5.png />
+  <kbd> <img src=image/9.png width=600px> </kbd>
 </p>
 
 ## Dashboard
