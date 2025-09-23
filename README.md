@@ -54,7 +54,7 @@ Miami leads sales at $31,700, followed by Denver and Houston, while San Francisc
 </p>
 
 #### **Total Sales** per **Month**
-Sales were strong in February ($122,695) and March ($177,730), but dropped sharply in April to just $3,420, most likely due to the absence of Home Appliances sales data. Overall, sales started strong but failed to maintain momentum.
+Sales were strong in February ($122,695) and March ($117,730), but dropped sharply in April to just $3,420, most likely due to the absence of Home Appliances sales data. Overall, sales started strong but failed to maintain momentum.
 
 <p align="center">
   <kbd> <img src=image/6.png width=600px> </kbd>
